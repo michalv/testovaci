@@ -6,5 +6,5 @@ author = "Michal Valovic"
 maintainer = "Michal Valovic"
 
 depends = {
-	"lua ~> 5.1"
+	"lua >= 5.1"
 }
